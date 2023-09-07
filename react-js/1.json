@@ -1,0 +1,9 @@
+[
+	{
+		"_id": "bc9a6d9968fda715b4d8cbce2d2d0c1d",
+		"name": "JSX Syntax",
+		"content": "code ```jsx const out = <h1>hello world</h1>;```",
+		"status": true,
+		"created_date": "12-23-2023:12:23:00"
+	}
+]
